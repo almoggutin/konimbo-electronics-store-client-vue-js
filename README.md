@@ -53,7 +53,7 @@ Additionally, in order to send data from the contact form, we use [Webhook](http
 **Git clone**
 
 ```
-git clone https://github.com/almog-gutin/Konimbo-Electronics-Store-Client-Vue-JS.git
+git clone https://github.com/almoggutin/Konimbo-Electronics-Store-Client-Vue-JS.git
 ```
 
 **Instructions**
